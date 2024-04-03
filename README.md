@@ -6,11 +6,9 @@
 
 I'm a software enginner with years of experience building products used by thousands of users across the world
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Django
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: <ibraheemosule@gmail.com>
-- ⚡ Mantra: Progress over perfection.
-- 📚 Interview Prep Notion Template: [Click Here](https://valentinesamuel.notion.site/DSA-Learning-Dashboard-6d031bfad4bf4dc09fb707ac2f60842e?pvs=4)
 
 # 💻 Tech Stack
 
