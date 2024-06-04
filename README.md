@@ -8,7 +8,7 @@ I'm a software enginner with years of experience building products used by thous
 
 - 🌱 I’m currently learning Django
 - 👯 I look forward to collaborating on front-end and backend Projects
-- 📫 Reach me: <ibraheemosule@gmail.com>
+- 📫 Reach me: <ibraheemsulay@gmail.com>
 
 # 💻 Tech Stack
 
