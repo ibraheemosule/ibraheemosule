@@ -2,11 +2,11 @@
 
 # **Ibrahim Sule**
 
-## Software Enginner
+## Software Engineer
 
-I'm a software enginner with years of experience building products used by thousands of users across the world
+I'm a software engineer with years of experience building products used by thousands of users across the world
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently improving my Flask knowledge
 - 👯 I look forward to collaborating on front-end and backend Projects
 - 📫 Reach me: <ibraheemsulay@gmail.com>
 
